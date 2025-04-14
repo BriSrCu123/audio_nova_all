@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="torchmetrics" />
+            <item index="1" class="java.lang.String" itemvalue="thop" />
+            <item index="2" class="java.lang.String" itemvalue="pyroomacoustics" />
+            <item index="3" class="java.lang.String" itemvalue="ffmpegio" />
+            <item index="4" class="java.lang.String" itemvalue="torch_tb_profiler" />
+            <item index="5" class="java.lang.String" itemvalue="noisereduce" />
+            <item index="6" class="java.lang.String" itemvalue="scaper" />
+            <item index="7" class="java.lang.String" itemvalue="openl3" />
+            <item index="8" class="java.lang.String" itemvalue="python-sofa" />
+            <item index="9" class="java.lang.String" itemvalue="soundfile" />
+            <item index="10" class="java.lang.String" itemvalue="librosa" />
+            <item index="11" class="java.lang.String" itemvalue="speechbrain" />
+            <item index="12" class="java.lang.String" itemvalue="youtube_dl" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

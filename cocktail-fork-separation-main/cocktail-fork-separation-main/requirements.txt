@@ -1,0 +1,8 @@
+# Copyright (C) 2023 Mitsubishi Electric Research Laboratories (MERL)
+#
+# SPDX-License-Identifier: MIT
+
+pyloudnorm==0.1.1
+pytorch_lightning==1.9.0
+torch==1.13.1
+torchaudio==0.13.1
